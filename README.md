@@ -1,18 +1,18 @@
 # #CorujãoConf
 
-Conferência sobre tecnologia que irá reunir grandes nomes baianos da tecnologia para trazer conteúdo relevante da área de computação. Vamos todos juntos aprender muito sobre tecnologia e aumentar nosso networking.
+Conferência que irá reunir grandes nomes baianos da tecnologia para trazer conteúdo relevante da área de computação. Nesse espaço iremos fazer o download de novos conhecimentos, um update em nossas habilidades e dar um overflow em nosso networking. 
 
 ### Inicio?
 *De 21/05/2020 (Logo em baixo teremos a lista das palestras e suas datas)
 
 ### Onde?
-*[Canal no Youtube](Em baixo teremos os links das palestras)*
+*[Canal no Youtube](Links a seguir)*
 
 ### Será ao vivo?
 Sim.
 
 ### E o horário?
-Serão a noite, às 22:00 (Horário de Brasília)
+Às 22:00 (Horário de Brasília)
 
 ### Qual a duração das palestras?
 Duração média de 1 hora (45 de palestra e 15 minutos de debate)
