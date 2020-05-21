@@ -1,6 +1,6 @@
 # #FiqueEmCasaConf
 
-Conferência sobre tecnologia que irá reunir grandes nomes baianos da tecnologia para trazer conteúdo relevante da área de computaçao. Vamos todos juntos aprender muito sobre tecnologia e aumentar nosso networking.
+Conferência sobre tecnologia que irá reunir grandes nomes baianos da tecnologia para trazer conteúdo relevante da área de computação. Vamos todos juntos aprender muito sobre tecnologia e aumentar nosso networking.
 
 ### Inicio?
 *De 21/05/2020 (Logo em baixo teremos a lista das palestras e suas datas)
