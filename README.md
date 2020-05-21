@@ -25,6 +25,7 @@ Veja a grade de palestrantes confirmados e as datas de cada palestra!
 Data | Palestrante | Tema
 --- | --- | ---
 *21/05/2020* | **Marcos Bião** | <a href="https://www.youtube.com/watch?v=4WoH-DwXOJo" target="_blank">Do sistema embarcado à internet das coisas: uma evolução de conceitos</a>
+*25/05/2020* | **Rafael Levi** | <a href="https://www.youtube.com/watch?v=noGJ2yI9buU" target="_blank">Indústria 4.0</a>
 
  
 
