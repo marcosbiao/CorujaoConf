@@ -1,4 +1,4 @@
-# #FiqueEmCasaConf
+# #CorujãoConf
 
 Conferência sobre tecnologia que irá reunir grandes nomes baianos da tecnologia para trazer conteúdo relevante da área de computação. Vamos todos juntos aprender muito sobre tecnologia e aumentar nosso networking.
 
