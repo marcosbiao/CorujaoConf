@@ -27,4 +27,6 @@ Data | Palestrante | Assunto
 *21/05/2020* | **Marcos Bião** | <a href="https://www.youtube.com/watch?v=4WoH-DwXOJo" target="_blank">Do sistema embarcado à internet das coisas: uma evolução de conceitos</a>
 
  
+
+
 NOTA: Organizaçao do github e inspiraçao do evento: <a href="https://github.com/linuxtips/FiqueEmCasaConf" target="_blank">FicaEmCasaConf</a>
