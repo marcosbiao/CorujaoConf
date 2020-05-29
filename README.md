@@ -28,7 +28,7 @@ Data | Palestrante | Tema
 *A definir* | **Rafael Levi** | <a href="https://www.youtube.com/watch?v=noGJ2yI9buU" target="_blank">Indústria 4.0: Do CLP à nuvem</a>
 *29/05/2020* | **Tairone Dias** | <a href="https://www.youtube.com/watch?v=5NEJMFWlNwk" target="_blank">Me formei, e agora?</a>
 *01/06/2020* | **Gabriel Santos** | <a href="https://www.youtube.com/watch?v=FUjvowhzRmw" target="_blank">Automação de Testes Funcionais com o Ghost Inspector</a>
-
+*03/06/2020* | **Valber Carneiro** | <a href="https://www.youtube.com/watch?v=NgCGy1pkc1M" target="_blank">Aplicações distribuídas com blockchain e ethereum</a>
  
 
 
